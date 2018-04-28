@@ -1,10 +1,17 @@
-JavaScript Learn
+# JavaScript Learn #
 
-## 语言基础
-- es5 
-    -  
+## 标记与风格表 ##
+
+- html
+- html5
+- css
+- css3
+
+## 语言基础 ##
+
+- es5
 - es6
-	- let and const 
+    - let and const 
 	- variable destructuring assignment 变量的析构赋值
 	- string extensions 字符串扩展
 	- regexp extensions 正则表达式的扩展
@@ -27,7 +34,8 @@ JavaScript Learn
 	- arraybuffer 二进制操作
 - node
 
-## 语言高级
+## 语言高级 ##
+
 - 设计模式
 - 编程模式
 - 闭包
@@ -36,20 +44,33 @@ JavaScript Learn
 - 数据结构
 - 原型链/作用域链
 	
-## 库
+## 库 ##
+
 - JQuery 
 - Prototype.js
-- 
+- Bootstrap
+- React
+- Redux
+- Vue
+- Angular
+- Ant Design Pro
+- Express
+- Koa
+- Egg
 	
-## 代码质量控制
+## 代码质量控制 ##
+
 - code style
 	- JSHint 
 	- ESLint
 	- JSLint
 - 单元测试
 	- Mocha
+- 性能
+	- JSPerf
+	
+## 部署 ##
 
-## 部署
 - 压缩合并
 	- Google Clousure Complier
 - 文档输出
@@ -61,11 +82,20 @@ JavaScript Learn
 	    - Traceur
 	    - Babel
 
-## 代码组织
+## 代码组织 ##
+
 - 类库模块化
 	- CommonJS
 	- webpack
 - 业务逻辑模块化
 	- bower/component
 	- 文件加载
-		- require.js
+		- require
+		
+		
+## 移动端 ##
+	
+- 微信小程序与公众平台
+- 响应式网页设计
+- JQuery Mobile
+- React Native
